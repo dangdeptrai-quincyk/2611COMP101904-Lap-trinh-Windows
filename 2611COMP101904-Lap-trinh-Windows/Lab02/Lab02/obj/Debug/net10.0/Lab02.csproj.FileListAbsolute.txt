@@ -1,0 +1,16 @@
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\bin\Debug\net10.0\Lab02.exe
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\bin\Debug\net10.0\Lab02.deps.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\bin\Debug\net10.0\Lab02.runtimeconfig.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\bin\Debug\net10.0\Lab02.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\bin\Debug\net10.0\Lab02.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfoInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfo.cs
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.sourcelink.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\refint\Lab02.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.genruntimeconfig.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\ref\Lab02.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab02\Lab02\obj\Debug\net10.0\Lab02.csproj.Up2Date

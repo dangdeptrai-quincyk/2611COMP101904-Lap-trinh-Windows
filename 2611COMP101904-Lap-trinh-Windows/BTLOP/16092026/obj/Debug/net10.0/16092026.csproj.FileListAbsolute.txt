@@ -1,0 +1,16 @@
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net10.0\16092026.exe
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net10.0\16092026.deps.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net10.0\16092026.runtimeconfig.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net10.0\16092026.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\bin\Debug\net10.0\16092026.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.AssemblyInfoInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.AssemblyInfo.cs
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.sourcelink.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\refint\16092026.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.genruntimeconfig.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\ref\16092026.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\obj\Debug\net10.0\16092026.csproj.Up2Date
