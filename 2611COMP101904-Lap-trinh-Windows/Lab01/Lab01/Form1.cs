@@ -23,7 +23,7 @@ namespace Lab01
             }
             if (string.IsNullOrEmpty(namSinhStr) || !int.TryParse(namSinhStr, out int namSinh))
             {
-                MessageBox.Show("Năm sinh không được để trống và phải là số nguyên", "Dữ liệu không hợp l",
+                MessageBox.Show("Năm sinh không được để trống và phải là số nguyên", "Dữ liệu không hợp lệ",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 txtNamSinh.Focus();
                 return;
@@ -45,7 +45,7 @@ namespace Lab01
             }
             if (!radNam.Checked && !radNu.Checked)
             {
-                MessageBox.Show("Vui lòng chọn giới tính", "Thiếu th",
+                MessageBox.Show("Vui lòng chọn giới tính", "Thiếu thông tin",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
