@@ -1,0 +1,16 @@
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.exe
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.deps.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.runtimeconfig.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\bin\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.AssemblyInfoInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.AssemblyInfo.cs
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.sourcelink.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\refint\COMP1019_Lab08_SimplePaint.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019_Lab08_SimplePaint.genruntimeconfig.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\ref\COMP1019_Lab08_SimplePaint.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab08\obj\Debug\net8.0-windows\COMP1019.87135125.Up2Date

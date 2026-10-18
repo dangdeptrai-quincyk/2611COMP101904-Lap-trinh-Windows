@@ -1,0 +1,16 @@
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\bin\Debug\net8.0-windows\ProductManager.exe
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\bin\Debug\net8.0-windows\ProductManager.deps.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\bin\Debug\net8.0-windows\ProductManager.runtimeconfig.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\bin\Debug\net8.0-windows\ProductManager.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\bin\Debug\net8.0-windows\ProductManager.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.AssemblyInfoInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.AssemblyInfo.cs
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.sourcelink.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\refint\ProductManager.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductManager.genruntimeconfig.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ref\ProductManager.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab06\obj\Debug\net8.0-windows\ProductM.F4B8B69F.Up2Date

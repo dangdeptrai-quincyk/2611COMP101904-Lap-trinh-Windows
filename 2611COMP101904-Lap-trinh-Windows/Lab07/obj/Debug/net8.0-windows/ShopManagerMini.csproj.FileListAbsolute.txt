@@ -1,0 +1,16 @@
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\bin\Debug\net8.0-windows\ShopManagerMini.exe
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\bin\Debug\net8.0-windows\ShopManagerMini.deps.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\bin\Debug\net8.0-windows\ShopManagerMini.runtimeconfig.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\bin\Debug\net8.0-windows\ShopManagerMini.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\bin\Debug\net8.0-windows\ShopManagerMini.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.AssemblyInfoInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.AssemblyInfo.cs
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.csproj.CoreCompileInputs.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.sourcelink.json
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\refint\ShopManagerMini.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.pdb
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopManagerMini.genruntimeconfig.cache
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ref\ShopManagerMini.dll
+C:\Users\phanv\Downloads\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\obj\Debug\net8.0-windows\ShopMana.0213BCA1.Up2Date
