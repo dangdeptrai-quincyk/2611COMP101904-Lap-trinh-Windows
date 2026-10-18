@@ -1,7 +1,7 @@
-# COMP1019 – Lab 04: Exception, Delegate/Event, Func/Action và Generic
+# 2611COMP101904 – Lab 04: Exception, Delegate/Event, Func/Action và Generic
 
 Chương trình **Console C# (.NET 8)** quản lý sản phẩm trong bộ nhớ bằng `Repository<T>`.
-Môn **COMP1019 – Lập trình trên Windows**, Buổi 4.
+Môn **2611COMP101904 – Lập trình trên Windows**, Buổi 4.
 
 - Sinh viên: Nguyễn Hải Đăng
 - MSSV: 51.01.104.019

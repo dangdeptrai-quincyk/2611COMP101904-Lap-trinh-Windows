@@ -1,7 +1,7 @@
-# COMP1019 – Lab 07: SDI, MDI và ứng dụng nhiều Form (ShopManagerMini)
+# 2611COMP101904 – Lab 07: SDI, MDI và ứng dụng nhiều Form (ShopManagerMini)
 
 Ứng dụng **quản lý cửa hàng mini** nhiều Form viết bằng **C# WinForms (.NET 8)**, dữ liệu lưu trong bộ nhớ.
-Môn **COMP1019 – Lập trình trên Windows**, Buổi 7.
+Môn **2611COMP101904 – Lập trình trên Windows**, Buổi 7.
 
 - Sinh viên: Nguyễn Hải Đăng
 - MSSV: 51.01.104.019

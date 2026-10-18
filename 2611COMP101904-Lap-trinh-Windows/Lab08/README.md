@@ -1,7 +1,7 @@
-# COMP1019 – Lab 08: Simple Paint
+# 2611COMP101904 – Lab 08: Simple Paint
 
 Ứng dụng Paint đơn giản viết bằng **C# WinForms (.NET 8)** và **GDI+**.
-Môn **COMP1019 – Lập trình trên Windows**, Buổi 8.
+Môn **2611COMP101904 – Lập trình trên Windows**, Buổi 8.
 
 - Sinh viên: Nguyễn Hải Đăng
 - MSSV: 51.01.104.019

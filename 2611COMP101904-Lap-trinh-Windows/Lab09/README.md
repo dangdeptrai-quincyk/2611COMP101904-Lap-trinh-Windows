@@ -1,7 +1,7 @@
-# COMP1019 – Lab 09: Thiết kế và in thẻ sinh viên bằng WinForms
+# 2611COMP101904 – Lab 09: Thiết kế và in thẻ sinh viên bằng WinForms
 
 Ứng dụng nhập thông tin sinh viên, xem trước và **in thẻ sinh viên**, viết bằng **C# WinForms (.NET 8)** và **GDI+**.
-Môn **COMP1019 – Lập trình trên Windows**, Buổi 9.
+Môn **2611COMP101904 – Lập trình trên Windows**, Buổi 9.
 
 - Sinh viên: Nguyễn Hải Đăng
 - MSSV: 51.01.104.019

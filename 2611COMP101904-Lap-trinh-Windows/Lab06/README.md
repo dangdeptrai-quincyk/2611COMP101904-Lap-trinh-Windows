@@ -1,7 +1,7 @@
-# COMP1019 – Lab 06: Windows Forms nâng cao và DataGridView (ProductManager)
+# 2611COMP101904 – Lab 06: Windows Forms nâng cao và DataGridView (ProductManager)
 
 Ứng dụng **quản lý sản phẩm** viết bằng **C# WinForms (.NET 8)**, dữ liệu lưu trong bộ nhớ.
-Môn **COMP1019 – Lập trình trên Windows**, Buổi 6.
+Môn **2611COMP101904 – Lập trình trên Windows**, Buổi 6.
 
 - Sinh viên: Nguyễn Hải Đăng
 - MSSV: 51.01.104.019
