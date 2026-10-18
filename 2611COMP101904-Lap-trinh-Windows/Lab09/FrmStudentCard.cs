@@ -22,7 +22,7 @@ public class FrmStudentCard : Form
         var left = new GroupBox { Text = "Thông tin sinh viên", Location = new Point(10, 10), Size = new Size(380, 495) };
         txtMaSV = new TextBox { Name = "txtMaSV", Width = 220 };
         txtHoTen = new TextBox { Name = "txtHoTen", Width = 220 };
-        cboLop = new ComboBox { Name = "cboLop", Width = 220 }; cboLop.Items.AddRange(new object[] { "DH22TIN01", "DH22TIN02", "DH23TIN01" });
+        cboLop = new ComboBox { Name = "cboLop", Width = 220 }; cboLop.Items.AddRange(new object[] { "51CNTTA", "51CNTTB", "51CNTTC" });
         cboKhoa = new ComboBox { Name = "cboKhoa", Width = 220 }; cboKhoa.Items.AddRange(new object[] { "Công nghệ Thông tin", "Toán - Tin", "Vật lý" });
         txtKhoaHoc = new TextBox { Name = "txtKhoaHoc", Width = 220, Text = "K49" };
         dtpNgaySinh = new DateTimePicker { Name = "dtpNgaySinh", Width = 220, Format = DateTimePickerFormat.Short };
