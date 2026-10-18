@@ -59,36 +59,36 @@ Lab04
 
 **1. Menu chương trình**
 
-![Menu chương trình](images/01_menu.png)
+![Menu chương trình](images/01_menu.jpg)
 
 **2. Thêm sản phẩm thành công và thông báo event**
 
-![Thêm sản phẩm thành công](images/02_them.png)
+![Thêm sản phẩm thành công](images/02_them.jpg)
 
 **3. Xuất danh sách sản phẩm**
 
-![Xuất danh sách](images/03_xuat_ds.png)
+![Xuất danh sách](images/03_xuat_ds.jpg)
 
 **4. Thêm sản phẩm trùng mã: bắt DuplicateProductException**
 
-![Trùng mã](images/04_trung_ma.png)
+![Trùng mã](images/04_trung_ma.jpg)
 
 **5. Nhập dữ liệu sai (giá âm)**
 
-![Nhập sai dữ liệu](images/05_nhap_sai.png)
+![Nhập sai dữ liệu](images/05_nhap_sai.jpg)
 
 **6. Tìm theo mã và tìm theo tên**
 
-![Tìm kiếm](images/06_tim_kiem.png) (images/06_tim_kiem.png1)
+![Tìm kiếm](images/06_tim_kiem.jpg) (images/06_tim_kiem1.jpg)
 
 **7. Lọc theo khoảng giá bằng Func<Product,bool>**
 
-![Lọc theo giá](images/07_loc_gia.png)
+![Lọc theo giá](images/07_loc_gia.jpg)
 
 **8. Xóa sản phẩm thành công và xóa mã không tồn tại (ProductNotFoundException)**
 
-![Xóa sản phẩm](images/08_xoa.png)
+![Xóa sản phẩm](images/08_xoa.jpg)
 
 **9. Tính tổng giá trị kho**
 
-![Tổng giá trị kho](images/09_tong_gia_tri.png)
+![Tổng giá trị kho](images/09_tong_gia_tri.jpg)
